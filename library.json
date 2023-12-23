@@ -1,0 +1,15 @@
+{
+    "name": "BLESerial",
+    "version": "0.0.1",
+    "description": "lol",
+    "keywords": "",
+    "license": "MIT",
+    "dependencies": {
+        "h2zero/NimBLE-Arduino": "^1.4.1"
+      },
+    "frameworks": "arduino",
+    "repository": {
+        "type": "git",
+        "url": ""
+    }
+}
